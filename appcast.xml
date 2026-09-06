@@ -4,5 +4,16 @@
     <title>ViewFolders Updates</title>
     <link>https://github.com/gambidrissi-dev/ViewFolders-Share</link>
     <description>Mises à jour de ViewFolders</description>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Sun, 06 Sep 2026 20:21:12 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/ViewFolders-Share/releases/download/v1.0.0/ViewFolders-1.0.0.zip"
+                 sparkle:edSignature="5HVxy789Ads9JP+8iMOLOJnWxt1Oyit03pfs7hWifnm2vo6CGAnv94tD8ZllLp6s2WDo1ZAkQCvRuYUi7yhpCw=="
+                 length="2771930"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
