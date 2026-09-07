@@ -5,6 +5,17 @@
     <link>https://github.com/gambidrissi-dev/ViewFolders-Share</link>
     <description>Mises à jour de ViewFolders</description>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Mon, 07 Sep 2026 18:45:21 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/ViewFolders-Share/releases/download/v1.2.0/ViewFolders-1.2.0.zip"
+                 sparkle:edSignature="byeBczM9kQuoJPWMFmTEgOoaYkIu98XrUL/Qa7I+Sjige/oMeFG00mVJ443BkQenLw6fs3Ke/x7FAJm51Yk5Dg=="
+                 length="2774427"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Mon, 07 Sep 2026 18:38:47 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
