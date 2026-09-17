@@ -38,6 +38,7 @@
   .steps { color: var(--muted); font-size: 0.9rem; line-height: 1.7; }
   .steps b { color: var(--text); }
   ul.features { color: var(--muted); font-size: 0.92rem; line-height: 1.75; padding-left: 1.1rem; margin: 0; }
+  ul.features b { color: var(--text); font-weight: 600; }
   footer { color: var(--muted); font-size: 0.8rem; text-align: center; margin-top: 2rem; }
   a.plain { color: var(--accent); }
 </style>
@@ -58,10 +59,11 @@
 
   <div class="card">
     <ul class="features">
-      <li>Le contenu du dossier au lieu du panneau d'infos du Finder</li>
-      <li>Première ligne utile des <code>.md</code> et <code>.txt</code>, front-matter sauté</li>
-      <li>Grille de vignettes automatique sur les dossiers d'images</li>
-      <li>Taille récursive, nombre d'éléments, répartition par extension</li>
+      <li><b>Header complet</b> — nom, nombre de dossiers/fichiers, taille récursive et fichiers masqués comptés d'un coup d'œil.</li>
+      <li><b>Aperçu intelligent des fichiers texte</b> — pour un <code>.md</code>/<code>.txt</code>/code, la première ligne utile s'affiche, en sautant le front-matter et le titre redondant.</li>
+      <li><b>Grille de vignettes automatique</b> — se déclenche dès que plus de la moitié du dossier est composé d'images, avec de vraies vignettes (images, première page des PDF, image extraite des vidéos).</li>
+      <li><b>Navigation au clic</b> — un sous-dossier s'ouvre en restant dans l'aperçu, la flèche ou le chevron remonte.</li>
+      <li><b>Répartition par extension</b> en pied de page — un coup d'œil sur ce que contient le dossier.</li>
     </ul>
   </div>
 
